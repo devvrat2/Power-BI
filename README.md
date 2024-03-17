@@ -6,8 +6,6 @@ Suicide prevention is a critical concern, and data analysis can play a pivotal r
 This project aimed to extract meaningful insights from suicide data in India, identify suicide clusters, and develop a user-friendly interface to provide suicide helpline numbers based on regional selection.
 
 Data Collection and Preprocessing
-Data Collection
-================================
 The suicide dataset for India was obtained from this link below as given on Prism.
 https://kh3lsstorage.s3.useast1.amazonaws.com/Data%20Analyst%20Project/LifeSave%20DataSet%20%281%29.csv
 
