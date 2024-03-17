@@ -1,5 +1,5 @@
 Project 1 : Suicide Data Analysis and Prevention Project Report
-
+=
 Introduction
 ============
 Suicide prevention is a critical concern, and data analysis can play a pivotal role in identifying trends, clusters, and hotspots. 
@@ -13,7 +13,7 @@ This report serves as an overview of the project, and the attached Power BI dash
 https://app.powerbi.com/view?r=eyJrIjoiZGJkZGI2M2ItZWM0NC00Y2I5LTkyZDAtNGFmOTUwMjZjZGYzIiwidCI6ImZiNWIxYzllLTZlMDUtNDFkZS04ODNlLTdhZjUwYjA3Y2U2ZSIsImMiOjZ9&pageName=ReportSection
 
 Project 2 : Supply chain Dashboard
-
+=
 Introduction
 ============
 Project description
