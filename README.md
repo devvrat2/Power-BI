@@ -13,7 +13,7 @@ https://kh3lsstorage.s3.useast1.amazonaws.com/Data%20Analyst%20Project/LifeSave%
 
 This report serves as an overview of the project, and the attached Power BI dashboard snapshots and an open link provide a detailed demonstration of the outcomes. Access the Power BI dashboard here.
 https://app.powerbi.com/view?r=eyJrIjoiZGJkZGI2M2ItZWM0NC00Y2I5LTkyZDAtNGFmOTUwMjZjZGYzIiwidCI6ImZiNWIxYzllLTZlMDUtNDFkZS04ODNlLTdhZjUwYjA3Y2U2ZSIsImMiOjZ9&pageName=ReportSection
-======================================================================================================================================================================================================
+
 Project 2 : Supply chain Dashboard
 
 Introduction
