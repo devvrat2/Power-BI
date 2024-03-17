@@ -22,3 +22,11 @@ I undertook a supply chain-focused initiative that involved creating a powerful 
 The supply chain dashboard played a crucial role in providing our customers with real-time insights and project status updates, fostering a more informed and efficient discussion environment. Not only did it enhance project visibility, but it also addressed key aspects of inventory management and purchase order status, contributing to the overall optimization of our supply chain operations.
 
 This achievement underscores my commitment to utilizing data-driven approaches for project management and highlights my ability to leverage sophisticated tools such as Power BI to create impactful solutions. It's a testament to my dedication to enhancing organizational efficiency and delivering tangible results in the realm of supply chain management
+
+Project 3 : Currency derivative Option chain Analysis Dashboard
+=
+Introduction
+=
+Project description
+Leveraging my love for data analysis, I utilized Python and API integration to extract relevant data, demonstrating my technical prowess in these areas. The real game-changer, however, was the implementation of Power BI for data visualization.
+Advanced and adaptable data representation tools are scarce or costly affair, I successfully crafted a bespoke dashboard that not only surpassed the capabilities of paid software. The project highlights my proficiency in Python, SQL, and advanced-level knowledge of Power BI. This endeavor exemplifies my commitment to driving innovation and creating a lasting impact in the field.
